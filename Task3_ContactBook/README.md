@@ -35,7 +35,7 @@ With this task, I explored how to structure user interaction, sanitize inputs, a
 
 👩‍💻 Contact Me
 📧 Email: melunasandra@gmail.com
-🔗 LinkedIn:linkedin.com/in/malini-m-57370932b 
+🔗 LinkedIn:linkedin.com/in/malini-m-57370932b
 
 Feel free to connect — I’m always happy to collaborate, learn, and build! 🤝💬
 
